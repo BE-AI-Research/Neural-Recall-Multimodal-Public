@@ -41,9 +41,9 @@ pip install openai chromadb  \# or your preferred vector store
 
 | Variable | Description | Default |
 | :---- | :---- | :---- |
-| VISION\_MODEL | The model used to describe images (e.g., gpt-4o, llava) | gpt-4o |
-| MEMORY\_THRESHOLD | Similarity score required for memory retrieval | 0.7 |
-| MAX\_DESC\_LENGTH | Character limit for the generated image description | 500 |
+| VISION\_MODEL | The model used to describe images (e.g., gpt-4o, llava) | gemma3:4b |
+| MEMORY\_THRESHOLD | Similarity score required for memory retrieval | 0.64 |
+| MAX\_DESC\_LENGTH | Character limit for the generated image description | 500-1024 |
 
 ## **🤝 Contributing**
 
