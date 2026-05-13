@@ -1,4 +1,4 @@
-# **Neural-Recall-Multimodal 🧠🖼️**
+# **Neural-Recall-Multimodal**
 
 **Neural-Recall-Multimodal** is an evolution of the Neural Recall plugin designed for [Open WebUI](https://github.com/open-webui/open-webui). It extends standard text-based long-term memory by integrating multimodal vision capabilities, allowing the system to "remember" and describe images provided during conversations.
 
